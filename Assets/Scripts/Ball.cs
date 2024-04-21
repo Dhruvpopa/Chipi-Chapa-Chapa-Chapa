@@ -12,7 +12,7 @@ public class Ball : MonoBehaviour
     Vector2 paddleToBallVector;
     bool hasStarted = false;
 
-    // cached component references
+    // cached component refs
     AudioSource myAudioSource;
     Rigidbody2D myRigidBody2D;
 
